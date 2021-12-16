@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Space Mono', monospace;
+}
+
+body {
+   /*  background-color: #054F77; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    min-height: 100vh;
+    background: url("https://cdn.wallpapersafari.com/4/80/LbiPBc.jpg");
+    
+}
+
+.pw-container {
+    background-color: #78A4C3;
+    width: 400px;
+   border: solid black;
+}
+
+.pw-header {
+    padding: 1rem;
+}
+
+.pw {
+    background-color: white;
+    display: flex;
+    font-size: 1.5rem;
+    align-items: center;
+    overflow: auto;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    position: relative;
+    border: solid black;
+}
+
+.pw button {
+    background-color: aliceblue;
+    border: none;
+    color: black;
+    cursor: pointer;
+}
+
+.pw body {
+    padding: 0 1rem 1rem;
+}
+
+.generate {
+    background-color: #016064;
+    color: black;
+    display: block;
+    padding: 0.75rem;
+    width: 100%;
+    border: solid black;
+
+}
+
