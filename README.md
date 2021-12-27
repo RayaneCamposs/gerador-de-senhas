@@ -1,3 +1,3 @@
 # gerador-de-senhas
-gerador de senhas feito com js https://rayanecamposs.github.io/gerador-de-senhas/gerador%20de%20senhas/ o_o
+gerador de senhas feito com js o_o https://rayanecamposs.github.io/gerador-de-senhas/gerador%20de%20senhas/ 
 
